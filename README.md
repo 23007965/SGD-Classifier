@@ -44,8 +44,18 @@ print("Confusion Matrix:")
 print(cm)
 ```
 ## Output:
-![prediction of iris species using SGD Classifier](sam.png)
 
+## DATASET 
+![image](https://github.com/user-attachments/assets/e4478f2a-4521-4fbf-aca9-90f01531caec)
+
+## Y_PRED
+![image](https://github.com/user-attachments/assets/f48aed8b-7272-4162-9375-6b6cc17d1b32)
+
+## ACCURACY
+![image](https://github.com/user-attachments/assets/55a3c0db-9e6d-4957-9923-37851fd07c09)
+
+## CONFUSION MATRIX
+![image](https://github.com/user-attachments/assets/e7b43eda-60b0-4763-9a3c-c8f5b936c8c1)
 
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
